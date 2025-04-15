@@ -1,1 +1,2 @@
-jose,123,raul@gmail.com
+Juan Perez,1234567890,juan@example.com
+Ana López,0987654321,ana@correo.com
